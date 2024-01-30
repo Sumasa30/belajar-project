@@ -1,0 +1,34 @@
+body{
+    background-color: aqua;
+
+}
+
+
+h1 { text-align: center;
+
+}
+
+.mobil{
+    width: 400px;
+
+}
+
+.car123{
+    display: flex;
+}
+
+.body2{
+    padding: 200px;
+}
+
+.berlian-container{
+    display: flex;
+    justify-content: center;
+}
+
+.berlian-container1{
+    background-color: yellow;
+    margin-left: 20px;
+    padding: 20px;
+    margin-top: 200px;
+}

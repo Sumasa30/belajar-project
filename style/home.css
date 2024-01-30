@@ -1,0 +1,60 @@
+body{
+    background-color: aquamarine;
+}
+
+.name{
+    background-color: aqua;
+    padding: 100px;
+    margin-top: 100px;
+}
+
+.bar{
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    border-radius: 20px;
+    display: inline-flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.box-besar{
+    /* background-color: black; */
+    text-align: center;
+
+}
+
+.menu{
+    /* background-color: black; */
+    color: aliceblue;
+}
+
+.logo{
+    /* background-color: rgb(245, 0, 0); */
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+.foto1{
+    padding-top: 200px;
+    width: 800px;
+    height: 500px;
+}
+
+.foto2{
+    padding-top: 50px;
+    width: 800px;
+    height: 500px;
+}
+
+
+
+.bodyabout{
+    background-color: yellow;
+    width: 1000px;
+}
+
+.home12{
+    display: grid;
+    justify-content: center;
+}

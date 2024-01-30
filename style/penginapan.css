@@ -1,0 +1,56 @@
+.penginapan{
+    width: 300px;
+    weight: 300px;
+}
+
+.body2{
+    padding: 200px;
+    display: flex;
+    padding-left: 10px;
+    padding-bottom: 2cm;
+}
+
+.body3{
+    display: flex;
+}
+
+.body4{
+    display: flex;
+    padding: 100px;
+    padding-left: 5cm;
+}
+
+.seleruh{
+    padding: 200px;
+}
+
+.berlian-container{
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+}
+
+.card-berlian{
+    background-color: yellow;
+    justify-content: center;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.berlian-img{
+    width: 180px;
+    weight: 180px;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.berlian2{
+    padding-left: 150px;
+}
+
+.berlian{
+    padding-top: 200px;
+   
+}

@@ -1,0 +1,63 @@
+.atas{
+    background-color: yellow;
+    display: flex;
+
+}
+
+.atas1{
+    background-color: yellow;
+    display: flex;
+    padding-top: 50px;
+}
+
+.atas2{
+    background-color: yellow;
+    display: flex;
+    padding-top: 50px;
+}
+
+.atas3{
+    background-color: yellow;
+    display: flex;
+    padding-top: 50px;
+}
+.wisata{
+    width: 300px;
+    weight: 300px;
+    display: inline-block;
+}
+
+.body2{
+    padding: 200px;
+}
+
+*{
+    border-width: 20px;
+    border-color: black;
+}
+
+.hanif-container{
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+}
+
+.hanif-img{
+    width: 300px;
+    weight: 300px;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.card-hanif{
+    background-color: yellow;
+    justify-content: center;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.berlian{
+    padding-top: 200px;
+}

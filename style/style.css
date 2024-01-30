@@ -1,0 +1,11 @@
+
+.about{
+    width: 400px;
+    weight: 600px;
+    padding-left: 300px;
+    text-align: center;
+}
+
+a:hover {
+    background-color: darkgoldenrod;
+}
